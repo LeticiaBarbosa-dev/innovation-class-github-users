@@ -1,6 +1,6 @@
 {
-  "homepage": "LeticiaBarbosa-dev.github.io/taco-app",
-  "name": "taco-app",
+  "homepage": "LeticiaBarbosa-dev.github.io/github-user",
+  "name": "github-user",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.1.7",
     "@types/react-router-dom": "^5.3.3",
     "axios": "^1.7.2",
     "lucide-react": "^0.366.0",
